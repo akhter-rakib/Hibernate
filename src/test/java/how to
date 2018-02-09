@@ -1,0 +1,9 @@
+
+How to create a simple  hibernate project by netbeans
+
+> create a maven project
+> Netbeans Project  theke hibernate add kora 
+> sopurce package a hibernateutil name a akta folder create kore hibernateUtil class create kora 
+> model create kora jpa annotation dia 
+> hibernate.cfg.xml file a property autoddl2 create kore dau
+> akta simple class create kore Session ar madhobe data accesss korano
